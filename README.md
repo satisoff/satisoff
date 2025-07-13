@@ -38,7 +38,7 @@
 | Exchange Rate | Currency converter | [exchange-rate-sand.vercel.app](https://exchange-rate-sand.vercel.app) |
 | Login Window | Improved layout, animations | [login.vercel.app](https://login-page-omega-rose.vercel.app/) |
 | Rock Paper Scissors | Game logic with UI | [rock-paper-scissors](https://rock-paper-scissors-ruby.vercel.app) |
-| Tic Tac Toe | 2-player game | [tic-tac-toe](https://tic-tac-toe-murex-seven.vercel.app) |
+| Tic Tac Toe | 2-player game | [tic-tac-toe](https://tic-tac-toe-xi-kohl.vercel.app/) |
 
 ---
 
@@ -54,7 +54,7 @@
 #### ✅ 💼 React Projects — [View Repo](https://github.com/satisoff/React-projects)
 | Project | Description | Live |
 |--------|-------------|------|
-| Edusity (Landing Page) | Modern college page UI | [edusity-college-page.vercel.app](https://edusity-college-page.vercel.app) |
+| Educity (Landing Page) | Modern college page UI | [educity-college-page.vercel.app](https://educity-college-page.vercel.app/) |
 | Firebase React App | Small project hosted on Firebase | [Firebase Projects Repo](https://github.com/satisoff/Firebase-projects) |
 
 ---
